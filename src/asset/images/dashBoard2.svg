@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="788" height="497" viewBox="0 0 788 497">
+  <defs>
+    <filter id="BG" x="0" y="0" width="788" height="497" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="730" height="325" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Referrer" transform="translate(-926 -615)">
+    <g transform="matrix(1, 0, 0, 1, 926, 615)" filter="url(#BG)">
+      <rect id="BG-2" data-name="BG" width="770" height="479" transform="translate(9 7)" fill="#fff"/>
+    </g>
+    <text id="Show_More_Link" data-name="Show More Link" transform="translate(1350 1074)" fill="#3b86ff" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-60.281" y="0">Show More</tspan></text>
+    <g id="Table">
+      <g id="row" transform="translate(955 731)" clip-path="url(#clip-path)">
+        <g id="row-2" data-name="row" transform="translate(-955 -731)">
+          <rect id="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_19_291" data-name="$19,291" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$19,291</tspan></text>
+          <text id="_43_" data-name="43%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">43%</tspan></text>
+          <text id="_752" data-name="752" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">752</tspan></text>
+          <text id="_3746" data-name="3746" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">3746</tspan></text>
+          <text id="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-3" data-name="row" transform="translate(-955 -679)">
+          <rect id="Divider-2" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-2" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_17_638" data-name="$17,638" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$17,638</tspan></text>
+          <text id="_32_" data-name="32%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">32%</tspan></text>
+          <text id="_728" data-name="728" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">728</tspan></text>
+          <text id="_8126" data-name="8126" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">8126</tspan></text>
+          <text id="adobe.com-2" data-name="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-4" data-name="row" transform="translate(-955 -627)">
+          <rect id="Divider-3" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-3" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_16_218" data-name="$16,218" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$16,218</tspan></text>
+          <text id="_28_" data-name="28%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">28%</tspan></text>
+          <text id="_694" data-name="694" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">694</tspan></text>
+          <text id="_8836" data-name="8836" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">8836</tspan></text>
+          <text id="adobe.com-3" data-name="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-5" data-name="row" transform="translate(-955 -575)">
+          <rect id="Divider-4" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-4" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_14_421" data-name="$14,421" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$14,421</tspan></text>
+          <text id="_24_" data-name="24%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">24%</tspan></text>
+          <text id="_645" data-name="645" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">645</tspan></text>
+          <text id="_1173" data-name="1173" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">1173</tspan></text>
+          <text id="adobe.com-4" data-name="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-6" data-name="row" transform="translate(-955 -523)">
+          <rect id="Divider-5" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-5" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_12_370" data-name="$12,370" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$12,370</tspan></text>
+          <text id="_20_" data-name="20%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">20%</tspan></text>
+          <text id="_539" data-name="539" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">539</tspan></text>
+          <text id="_2739" data-name="2739" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">2739</tspan></text>
+          <text id="adobe.com-5" data-name="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-7" data-name="row" transform="translate(-955 -471)">
+          <rect id="Divider-6" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-6" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_9_928" data-name="$9,928" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-35.555" y="0">$9,928</tspan></text>
+          <text id="_18_" data-name="18%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">18%</tspan></text>
+          <text id="_432" data-name="432" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">432</tspan></text>
+          <text id="_1762" data-name="1762" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">1762</tspan></text>
+          <text id="adobe.com-6" data-name="adobe.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">adobe.com</tspan></text>
+        </g>
+        <g id="row-8" data-name="row" transform="translate(-955 -419)">
+          <rect id="Divider-7" data-name="Divider" width="730" height="1" transform="translate(955 781)" fill="#f1f1f3"/>
+          <rect id="Row.BG-7" data-name="Row.BG" width="730" height="50" transform="translate(955 731)" fill="#fff"/>
+          <text id="_19_291-2" data-name="$19,291" transform="translate(1665 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-42.016" y="0">$19,291</tspan></text>
+          <text id="_43_2" data-name="43%" transform="translate(1465 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">43%</tspan></text>
+          <text id="_752-2" data-name="752" transform="translate(1345 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">752</tspan></text>
+          <text id="_3746-2" data-name="3746" transform="translate(1195 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">3746</tspan></text>
+          <text id="google.com" transform="translate(975 761)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">google.com</tspan></text>
+        </g>
+      </g>
+      <g id="Head">
+        <rect id="Head.BG" width="730" height="45" transform="translate(955 686)" fill="#f5f6fa"/>
+        <text id="TOTAL" transform="translate(1665 713)" fill="#a3a6b4" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-36.465" y="0">TOTAL</tspan></text>
+        <text id="CONVERSION" transform="translate(1465 713)" fill="#a3a6b4" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">CONVERSION</tspan></text>
+        <text id="SALES" transform="translate(1345 713)" fill="#a3a6b4" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">SALES</tspan></text>
+        <text id="VIEWS" transform="translate(1195 713)" fill="#a3a6b4" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">VIEWS</tspan></text>
+        <text id="LOCATION" transform="translate(975 713)" fill="#a3a6b4" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0">LOCATION</tspan></text>
+      </g>
+    </g>
+    <text id="Referrer-2" data-name="Referrer" transform="translate(955 661)" fill="#4d4f5c" font-size="18" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Referrer</tspan></text>
+  </g>
+</svg>
